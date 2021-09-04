@@ -15,6 +15,3 @@
 
 # KDevelop project files
 **/*.kdev4
-
-# nvim plugins
-/etc/nvim/autoload/*
